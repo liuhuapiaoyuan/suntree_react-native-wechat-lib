@@ -2,6 +2,10 @@
 
 # React-Native-Wechat-Lib
 
+### 2021-8-7
+- 升级安卓的版本库，改成maven，仅仅是为了升级版本号方便使用
+
+
 [React Native] bridging library that integrates WeChat SDKs:
 
 - [x] iOS SDK 1.8.7.1
