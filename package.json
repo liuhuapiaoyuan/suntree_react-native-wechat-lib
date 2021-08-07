@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 1",
-    "publish": "npm publish  --access public"
+    "pub": "npm publish  --access public"
   },
   "repository": {
     "type": "git",
